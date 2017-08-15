@@ -226,31 +226,9 @@ hr {
     margin-right: $font-size-base;
   }
 }
-#expertness {
-  padding-top: 89px;
-  padding-bottom: 74px;
-  h3 {
-    font-weight: 700;
-    i {
-      margin-right: $font-size-base;
-    }
-  }
-  .block {
-    h4,p {
-      color: $white;
-    }
-  }
-  .container {
-    .row {
-      .col-sm-4 {
-        padding-right: $font-size-small;
-        padding-left: $font-size-small;
-      }
-    }
-  }
-}
+
 #hire_me {
-  margin-top: 40px;
+  margin-top: 20px;
   margin-bottom: 90px;
   i {
     color: $color-orange;
@@ -278,10 +256,10 @@ hr {
 }
 .btn-orange {
   background: $color-orange;
-  padding: 15px 30px;
+  padding: 20px 40px;
   border: 2px solid $color-orange;
   transition: all 0.5s ease-out;
-  font-weight: 700;
+  font-weight: 900;
   text-transform: uppercase;
   &:hover {
     background: $white;

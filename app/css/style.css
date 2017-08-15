@@ -2680,21 +2680,9 @@ hr {
   .icon-list i {
     margin-right: 14px; }
 
-#expertness {
-  padding-top: 89px;
-  padding-bottom: 74px; }
-  #expertness h3 {
-    font-weight: 700; }
-    #expertness h3 i {
-      margin-right: 14px; }
-  #expertness .block h4, #expertness .block p {
-    color: #fff; }
-  #expertness .container .row .col-sm-4 {
-    padding-right: 12px;
-    padding-left: 12px; }
 
 #hire_me {
-  margin-top: 90px;
+  margin-top: 40px;
   margin-bottom: 90px; }
   #hire_me i {
     color: #f5a623; }
@@ -2744,7 +2732,18 @@ hr {
       color: #ffdfcd; }
     #contact_me form .form-group input::-moz-placeholder {
       /* Firefox 19+ */
-      color: #ffdfcd; }
+      color: #ffdfcd; }#expertness {
+  padding-top: 89px;
+  padding-bottom: 74px; }
+  #expertness h3 {
+    font-weight: 700; }
+    #expertness h3 i {
+      margin-right: 14px; }
+  #expertness .block h4, #expertness .block p {
+    color: #fff; }
+  #expertness .container .row .col-sm-4 {
+    padding-right: 12px;
+    padding-left: 12px; }
     #contact_me form .form-group input:-ms-input-placeholder {
       color: #ffdfcd; }
     #contact_me form .form-group textarea::-webkit-input-placeholder {
